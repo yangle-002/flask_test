@@ -16,7 +16,7 @@ manager.add_command('db', MigrateCommand)
 python manager.py db  init
 # 生成映射脚本
 python manager.py db migrate
-# 映射数据库
+# 映射 数据库
 python manager.py db upgrade
 
 '''

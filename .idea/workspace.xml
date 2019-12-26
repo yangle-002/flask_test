@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bab721f-2bce-4fbd-bb0a-b4e4f629bf7f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/flask_program_1226.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/goods/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/goods/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/static/img/315905.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/static/js/jq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/61c7b535ebb6_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/825ed20cd47e_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/b5461301277d_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/manager.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +20,8 @@
       <file leaf-file-name="manager.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="117">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -74,9 +53,9 @@
         <option value="$PROJECT_DIR$/apps/static/js/jq.js" />
         <option value="$PROJECT_DIR$/apps/templates/index.html" />
         <option value="$PROJECT_DIR$/apps/__init__.py" />
-        <option value="$PROJECT_DIR$/manager.py" />
         <option value="$PROJECT_DIR$/apps/config.py" />
         <option value="$PROJECT_DIR$/apps/model.py" />
+        <option value="$PROJECT_DIR$/manager.py" />
       </list>
     </option>
   </component>
@@ -226,8 +205,8 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44351465" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.42877096" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.1747851" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.42877096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.1747851" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -371,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="117">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
